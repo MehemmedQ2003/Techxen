@@ -13475,6 +13475,7 @@ a.header__search.header-search-btn p {
 .brand-single-box {
   display: inline-block;
   padding: 0px 20px;
+  margin-top: 20px;
 }
 
 @media (max-width: 767px) {
@@ -13729,7 +13730,7 @@ a.header__search.header-search-btn p {
   font-size: 100px;
   width: 100%;
   white-space: nowrap;
-  line-height: 67px;
+  line-height: 40px;
   font-weight: 600;
   font-family: var(--theme-typography-secondory-font-family);
   color: var(--theme-white-color);
